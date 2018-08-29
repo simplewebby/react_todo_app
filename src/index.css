@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato",sans-serif;
+  background: #c17da5;
+  font-size: 1.5rem;
+
+}
+input {
+  color: white;
+  font-size: 2rem;
+}
+.container{
+  border: 6px solid #fff;
+  padding: 2rem;
+  margin-top: 2rem;
+  
+}
